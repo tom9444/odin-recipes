@@ -1,0 +1,32 @@
+#headline {
+    font-family: Georgia, Helvetica, serif;
+    text-transform: uppercase;
+    color: rgb(88, 80, 78);
+    font-size: 40px;
+    text-align: center;
+    background-color: rgba(219, 91, 52, 0.4);
+}
+
+div {
+    text-align: center;
+}
+
+h2 {
+    font-family: Georgia, Helvetica, serif;
+    font-size: 24px;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.list {
+    font-family: Georgia, Helvetica, serif;
+    font-size: 22px;
+    color: #8B4513;
+}
+
+a {
+    font-family: Georgia, Helvetica, serif;
+    color: rgb(255, 0, 0);
+    text-decoration:none;
+
+}
